@@ -1,0 +1,19 @@
+1bbbbbbb1bbb1bbb1bbbbbbb1b
+b1bbbbb1bbb1m1bbb1bbbbb1bb
+bb1bbb1bbb1mmm1bbb1bbb1bbb
+bbb1b1bbb1mmmmm1bbb1b1bbbb
+1bbb1bbb1mmm1mmm1bbb1bbbbb
+b1bbbbb1mmm1mmm1i1bbb1bbbb
+bb1bbb1mmm1mmm1iii1bbb1bbb
+bbb1b1mmm1mmm1iiiii1bbb1bb
+bbbb1mmm1mmm1iiiiiii1bbb1b
+bbb1mmm1m1mmm1iiiii1b1bbbb
+bb1mmm1mmm1mmm1iii1bbb1bbb
+b1mmm1mmmmm1mmm1i1bbbbb1bb
+1mmm1mmm1mmm1mmm1bbb1bbb1b
+b1mmmmm1b1mmmmm1bbb1bbb1bb
+bb1mmm1bbb1mmm1bbb1bbb1bbb
+bbb1m1bbbbb1m1bbb1bbb1bbbb
+bbbb1bbbbbbb1bbb1bbb1bbbbb
+Valid areas found 2
+The largest area is area m with a size of 96 units.
